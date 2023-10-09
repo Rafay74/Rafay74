@@ -1,5 +1,6 @@
-## Hi there 👋, I'm Abdul Rafay!
-#### Web App Developer | Software Developer 
+<h2 style="color: black;">Hi there 👋, I'm Abdul Rafay!</h2>
+<h4 style="color: black;">Web App Developer | Software Developer</h4>
+
 
 ### About Me
 Technology enthusiast with a love for building web applications. Eager to collaborate with like-minded individuals and explore new opportunities for personal and professional growth.
