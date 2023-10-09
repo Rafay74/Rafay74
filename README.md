@@ -1,4 +1,4 @@
-<h2 style="color: black;">Hi there 👋, I'm Abdul Rafay!</h2>
+<h2 style="color: black;">Hi there 👋, I'm Abdul Rafay!</h2> 
 <h4 style="color: black;">Web App Developer | Software Developer</h4>
 
 
