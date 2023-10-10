@@ -1,5 +1,5 @@
 <h2 style="color: black;">Hi there 👋, I'm Abdul Rafay!</h2> 
-<h4 style="color: black;">Web App Developer | Software Developer</h4>
+<h4 style="color: black;">Web App Developer | Bachelors in Computer Science</h4>
 
 
 ### About Me
