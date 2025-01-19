@@ -1,8 +1,7 @@
 # Hello - I'm Abdul Rafay a FullStack AI Powered Software Engineer 
 
-## 🚀 About Me
-I'm a passionate **Web App Developer** with a love for building scalable and user-friendly web applications.  
-I enjoy solving challenging problems, learning new technologies, and collaborating with like-minded developers.
+A **Fullstack Developer**, specializing in Next.js, Vue.js, Node.js, Express, NestJS, and Python, constantly exploring new frameworks and technologies to build robust and scalable applications.
+
 
 ---
 
