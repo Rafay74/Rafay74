@@ -1,8 +1,4 @@
-# Hi there 👋, I'm Abdul Rafay!
-
-**Web App Developer | Bachelor in Computer Science**
-
----
+# Hello - I'm Abdul Rafay a FullStack AI Powered Software Engineer 
 
 ## 🚀 About Me
 I'm a passionate **Web App Developer** with a love for building scalable and user-friendly web applications.  
