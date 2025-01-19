@@ -2,7 +2,7 @@
 
 A **Fullstack Developer**, specializing in Next.js, Vue.js, Node.js, Express, NestJS, and Python, constantly exploring new frameworks and technologies to build robust and scalable applications.
 
-📫 **reach meout for **freelance projects**, **remote opportunities**, or just to connect:**
+📫 **Reach me out for **freelance projects**, **remote opportunities**, or just to connect:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-rafay/)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ea83b41779904e0)
