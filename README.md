@@ -1,12 +1,13 @@
-# Hello - I'm Abdul Rafay, a **FullStack AI-Powered Developer** ![wave-gif](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif)
+# Hello - I'm Abdul Rafay, a **FullStack AI-Powered Developer** 👋
 
 A **Fullstack Developer**, specializing in Next.js, Vue.js, Node.js, Express, NestJS, and Python, constantly exploring new frameworks and technologies to build robust and scalable applications.
 
 📫 **reach meout for **freelance projects**, **remote opportunities**, or just to connect:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-rafay/)
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ea83b41779904e0)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdrafay74@gmail.com)
+
 
 - 🌱 I am currently working as a **full-time freelancer** on [Upwork](https://www.upwork.com/).
 - 🌍 Open to **remote opportunities** and exciting collaborations on meaningful projects.
@@ -36,9 +37,8 @@ A **Fullstack Developer**, specializing in Next.js, Vue.js, Node.js, Express, Ne
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+I love building user-friendly web applications that attract a lot of traffic, get plenty of page views, and create great experiences for users. I enjoy solving problems on existing websites and adding improvements that make them faster and more efficient. I've always focused on delivering projects on time and handling every step of the software development process to make sure everything runs smoothly.
 
-Feel free to reach out for **freelance projects**, **remote opportunities**, or just to connect:
+I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-rafay/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdrafay74@gmail.com)
+
