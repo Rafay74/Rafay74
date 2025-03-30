@@ -1,6 +1,6 @@
 # Hello - I'm Abdul Rafay, a **FullStack AI-Powered Developer** 👋
 
-A **Fullstack Developer**, specializing in Next.js, Vue.js, Node.js, Express, Nest.js, and Python, constantly exploring new frameworks and technologies to build robust and scalable applications.
+A **Fullstack Developer**, specializing in Next.js, React.js, Node.js, Express, Nest.js, and FastAPI, constantly exploring new frameworks and technologies to build robust and scalable applications.
 
 📫 **Reach me out for **freelance projects**, **remote opportunities**, or just to connect:**
 
