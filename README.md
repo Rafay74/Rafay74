@@ -8,7 +8,7 @@ A **Fullstack Developer**, specializing in Next.js, React.js, Node.js, Express, 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
 
 
-- 🌱 I am currently working as a **full-time freelancer** on [Upwork](https://www.upwork.com/).
+- 🌱 I am currently working as a **full-time freelancer** on [Upwork]([https://www.upwork.com/](https://www.upwork.com/freelancers/~011ea83b41779904e0)).
 - 🌍 Open to **remote opportunities** and exciting collaborations on meaningful projects.
 - ⚡ Fun fact: Debugging takes up 75% of a developer's time, and the rest is spent Googling!
 
